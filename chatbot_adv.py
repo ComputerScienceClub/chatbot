@@ -12,11 +12,11 @@ bot = ChatBot(botname, io_adapter="chatterbot.adapters.io.NoOutputAdapter")
 
 #train the bot
 conversation = [
-"Hello",
+"hello",
 "Hi there!",
-"How are you doing?",
-"I'm doing great.",
-"That is good to hear",
+"how are you doing",
+"Im doing great.",
+"that is good to hear",
 "Thank you.",
 "Your welcome."
 ]
